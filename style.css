@@ -439,3 +439,9 @@ body {
 #box5:active {
     transform: scale(0.8);
 }
+@font-face {
+  font-family: 'Impact';
+  src: url('./fonts/impact.woff2') format('woff2'),
+       url('./fonts/impact.woff') format('woff');
+  font-display: swap;
+}
