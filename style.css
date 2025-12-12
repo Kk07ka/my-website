@@ -96,7 +96,7 @@ body {
 }
 #pic2 {
     order: 3;
-    width: 300px;
+    width: 200px;
     height: 300px;
     justify-self: end;
 }
@@ -438,6 +438,7 @@ body {
 }
 #box5:active {
     transform: scale(0.8);
+
 }
 @font-face {
   font-family: 'Impact';
