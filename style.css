@@ -90,13 +90,13 @@ body {
 }
 #pic1 {
     order: 1;
-    width: 350px;
+    width: 300px;
     height: 300px;
     justify-self: start;
 }
 #pic2 {
     order: 3;
-    width: 250px;
+    width: 300px;
     height: 300px;
     justify-self: end;
 }
@@ -446,4 +446,5 @@ body {
        url('./fonts/impact.woff') format('woff');
   font-display: swap;
 }
+
 
